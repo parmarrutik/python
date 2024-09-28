@@ -1,0 +1,44 @@
+
+git --version
+
+git config --global user.name "parmarrutik" 	//git config --global user.name "user name"
+
+git config --global user.email "parmarrutik0@gmail.com"	 //git config --global user.email "user email"
+
+git config --list
+
+git clone https://github.com/parmarrutik/python.git	//git clone path
+
+git init	//initializr repository
+
+git status	//check status
+
+git add .	//save changes
+
+git rebase
+
+git branch
+
+git stash save //after clone
+
+git checkout develop 	//switch develop
+
+git pull
+
+git checkout python //switch user machine //python = branch name
+
+git rebase develop
+
+git push origin python //after rebase //python = branch name
+
+git stash pop
+
+///check your brach name then you push after push
+
+cd python	 //go to repository //python=repository
+
+git commit -m "newfeature"	//give message 
+
+git remote add origin https://github.com/parmarrutik/python.git
+	
+git push origin main		//push changes send main
