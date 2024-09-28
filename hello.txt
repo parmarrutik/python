@@ -42,3 +42,7 @@ git commit -m "newfeature"	//give message
 git remote add origin https://github.com/parmarrutik/python.git
 	
 git push origin main		//push changes send main
+
+add
+commit
+push
