@@ -21,7 +21,7 @@ git branch
 
 git stash save //after clone
 
-git checkout develop 	//switch develop
+git checkout develop 	//switch develop    //develop=main branch name
 
 git pull
 
@@ -42,6 +42,12 @@ git commit -m "newfeature"	//give message
 git remote add origin https://github.com/parmarrutik/python.git
 	
 git push origin main		//push changes send main
+
+git branch -m feature   //rename branch   //feature=new branch name
+git branch  //see branch name
+
+git checkout -b feature1    //create branch     //feature1=branch name
+git checkout freature1  //switch branch
 
 add
 commit
