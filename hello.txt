@@ -47,7 +47,8 @@ git branch -m feature   //rename branch   //feature=new branch name
 git branch  //see branch name
 
 git checkout -b feature1    //create branch     //feature1=branch name
-git checkout freature1  //switch branch
+git checkout feature1  //switch branch
+git branch -d feature1  //delete branch     //feature1=branch name
 
 add
 commit
